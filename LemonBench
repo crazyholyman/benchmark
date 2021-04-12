@@ -1,0 +1,4 @@
+快速测试
+wget -qO- https://ilemonra.in/LemonBenchIntl | bash -s fast
+完整测试
+wget -qO- https://ilemonra.in/LemonBenchIntl | bash -s full
