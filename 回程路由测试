@@ -1,0 +1,2 @@
+wget -qO - git.io/fphX1 | bash
+curl -Lso - git.io/fphX1 | bash
